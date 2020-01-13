@@ -40,7 +40,7 @@ input {
 button {
     cursor: pointer;
     padding: 12px;
-    background: #d92cac;
+    background: #7C5CBF;
     border: none;
     color: white;
     font-size: 16px;
@@ -59,7 +59,7 @@ button:disabled {
 /* Join Page Styles */
 
 .centered-form {
-    background: #adbc32;
+    background: #333744;
     width: 100vw;
     height: 100vh;   
     display: flex;
